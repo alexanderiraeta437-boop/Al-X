@@ -1,10 +1,9 @@
 {
   "name": "al-x",
   "version": "1.0.0",
-  "description": "Sistema educativo tipo NotebookLM con IA dual",
+  "description": "Sistema educativo tipo NotebookLM",
   "main": "api/index.js",
   "dependencies": {
-    "@google/genai": "^0.1.1",
     "express": "^4.19.2"
   }
 }
