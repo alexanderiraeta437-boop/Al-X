@@ -1,7 +1,7 @@
 {
   "name": "al-x",
   "version": "1.0.0",
-  "description": "Sistema educativo tipo NotebookLM",
+  "description": "Sistema educativo AL-X",
   "main": "api/index.js",
   "dependencies": {
     "express": "^4.19.2"
