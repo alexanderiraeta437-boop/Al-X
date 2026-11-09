@@ -3,7 +3,7 @@ const app = express();
 
 app.use(express.json());
 
-// 1. Endpoint para Resúmenes de Archivos (Usa API Key 1)
+// 1. api1
 app.post('/api/summarize', async (req, res) => {
   const { text } = req.body;
   const apiKey = process.env.AL_X_API_KEY_1;
